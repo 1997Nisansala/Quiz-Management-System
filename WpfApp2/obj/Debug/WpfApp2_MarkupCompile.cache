@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Emalka\WpfApp2\obj\Debug\
+C:\Users\DananjayaMorais\Desktop\Order\Quiz-Order\Quiz-Management-System\WpfApp2\obj\Debug\
 WpfApp2
 none
 false
 DEBUG;TRACE
-D:\Emalka\WpfApp2\App.xaml
-61062924622
+C:\Users\DananjayaMorais\Desktop\Order\Quiz-Order\Quiz-Management-System\WpfApp2\App.xaml
+61713305806
 
-14161811040
-15-1795066875
+14-1583881169
+15-87359106
 addquestion.xaml;MainWindow.xaml;Student.xaml;StudentSignIn.xaml;Teacher.xaml;TeacherSignIn.xaml;
 
 False
